@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ngeny-kip
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in medicine ,chess & software 
+- 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ngeny-kip/ngeny-kip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
